@@ -1,0 +1,17 @@
+h1 {
+    text-align: center ;
+    color: white;
+    background: red;
+}
+td {
+    color: coral;
+}
+span{
+    color: blue;
+}
+body {
+    background-color: aqua;
+}
+div {
+    background-color: white;
+}
